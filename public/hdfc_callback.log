@@ -1,0 +1,31 @@
+2026-01-21 10:04:17 {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:07:54 | Callback Payload: {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:08:22 | Callback Payload: {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:10:21 {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:20:35 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:21:53 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:23:43 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:44:33 CALLBACK []
+2026-01-21 10:45:18 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:46:45 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:48:43 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"WEI\/k1d5vcGKSYads3whaVXLcnUVHrJGBKWmcLhCaUc=","order_id":"ORD80a69f6c5bb20e"}
+2026-01-21 10:51:26 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"mjJpCvXyUGX7yBGjskgow+u+XYn2QpJ5FlrX88Nnt60=","order_id":"ORD2033fd0bfc4ce6"}
+2026-01-21 11:13:42 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"9MS\/w9HK\/LPv1PifE3fFJsqFwngcqwiPDe2\/5A3ol7k=","order_id":"ORDac9e351a15aeab"}
+2026-01-21 11:21:53 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"DuWJZPivdwTu2kA4rLKROpV\/fznK+8Ku0iWhFFNbzec=","order_id":"ORD339490d3a03d45"}
+2026-01-21 11:23:43 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"DuWJZPivdwTu2kA4rLKROpV\/fznK+8Ku0iWhFFNbzec=","order_id":"ORD339490d3a03d45"}
+2026-01-21 11:28:15 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"DuWJZPivdwTu2kA4rLKROpV\/fznK+8Ku0iWhFFNbzec=","order_id":"ORD339490d3a03d45"}
+2026-01-21 11:29:51 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"qtC\/03GmFMhmR7dS+ebo9QPioqvWuza0EttCMOMHL1E=","order_id":"ORD48232d14bae64b"}
+2026-01-21 11:37:09 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"BLpChkh66VHhp0tIBiVQBTySJihgZaokZqjCio7qy48=","order_id":"ORD9398620e2900d4"}
+2026-01-21 11:44:58 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"BLpChkh66VHhp0tIBiVQBTySJihgZaokZqjCio7qy48=","order_id":"ORD9398620e2900d4"}
+2026-01-21 11:45:32 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"BLpChkh66VHhp0tIBiVQBTySJihgZaokZqjCio7qy48=","order_id":"ORD9398620e2900d4"}
+2026-01-21 12:25:09 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"wWdaHCcBksqUJ7wHpLhxeMEImi6pvkUsQcs7avkC3jA=","order_id":"ORD096419b545c64b"}
+2026-01-21 12:34:12 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"wWdaHCcBksqUJ7wHpLhxeMEImi6pvkUsQcs7avkC3jA=","order_id":"ORD096419b545c64b"}
+2026-01-21 12:35:06 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"wWdaHCcBksqUJ7wHpLhxeMEImi6pvkUsQcs7avkC3jA=","order_id":"ORD096419b545c64b"}
+2026-01-21 12:49:34 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"PujZhA3DLWlVV7NCKTSl2j6ntqoDywp1fsB\/lBMw4Rg=","order_id":"ORD6d7d2375e1506e"}
+2026-01-21 12:57:11 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"U7ALX3nnyRsp48YQSBTTXXEhrGQgtNekIjHpL8DJbHg=","order_id":"ORD6860715de0758d"}
+2026-01-21 12:58:46 CALLBACK {"status":"AUTHORIZING","signature_algorithm":"HMAC-SHA256","status_id":"28","signature":"1POevvOq\/JkZPuhjmyx984WEUkj9caD+kioC3wpGwAs=","order_id":"ORD4aacb7c7f3992c"}
+2026-01-21 13:00:15 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"kyoDhQceBzyWl6Z7+Z3qmLQaOmwhGij6xwfeyp2OrZ4=","order_id":"ORD82613778382dc1"}
+2026-01-22 08:34:08 CALLBACK {"status":"CHARGED","signature_algorithm":"HMAC-SHA256","status_id":"21","signature":"qLh4TCbqFnRxDqFok3LUSLmVEPB9ykltHaS7qI2ZCNs=","order_id":"ORDdef273c471c2f3"}
+2026-01-22 08:47:39 CALLBACK {"status":"AUTHORIZING","signature_algorithm":"HMAC-SHA256","status_id":"28","signature":"HxRzcmdmwxItzHDW5HNaHZaoTMGQdjTbIT3e\/Fty1fY=","order_id":"ORDc68cd907a4ff09"}
+2026-01-22 09:06:10 CALLBACK {"order_id":"ORD18ebd9f2fee0c9","status":"NEW","sdk_status":"abort","status_id":"10"}
+2026-02-05 11:08:26 CALLBACK {"status":"AUTHORIZING","signature_algorithm":"HMAC-SHA256","status_id":"28","signature":"gQrMazprsSuhe6zVREoGugn2\/ug9ehV6NvboVG32XEI=","order_id":"ORD640cc3a5728b97"}

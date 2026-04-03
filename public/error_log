@@ -1,0 +1,12 @@
+[26-Dec-2025 21:48:59 UTC] PHP Warning:  require(/home1/divin7db/public_html/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home1/divin7db/public_html/public/index.php on line 14
+[26-Dec-2025 21:48:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/divin7db/public_html/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/divin7db/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/divin7db/public_html/public/index.php on line 14
+[26-Dec-2025 21:49:02 UTC] PHP Warning:  require(/home1/divin7db/public_html/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home1/divin7db/public_html/public/index.php on line 14
+[26-Dec-2025 21:49:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/divin7db/public_html/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/divin7db/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/divin7db/public_html/public/index.php on line 14
+[20-Jan-2026 02:25:31 UTC] PHP Fatal error:  Cannot declare class Http\Controllers\HdfcController, because the name is already in use in /home1/divin7db/public_html/app/Http/Controllers/HdfcController.php on line 13
+[21-Jan-2026 11:03:33 UTC] PHP Fatal error:  Trait "Botble\Paystack\Http\Controllers\Illuminate\Http\Request" not found in /home1/divin7db/public_html/platform/plugins/paystack/src/Http/Controllers/PaystackController.php on line 18
